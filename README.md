@@ -1,4 +1,4 @@
-# 🏥 MIMIC-IV Clinical Data Analysis & Prediction System
+#  MIMIC-IV Clinical Data Analysis & Prediction System
 
 A production-ready, end-to-end machine learning pipeline for analyzing clinical data from the MIMIC-IV database and predicting in-hospital mortality.
 
